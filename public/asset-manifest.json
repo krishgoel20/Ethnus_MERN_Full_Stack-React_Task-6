@@ -1,0 +1,27 @@
+{
+    "files": {
+      "main.css": "/portfolio/static/css/main.9af537df.css",
+      "main.js": "/portfolio/static/js/main.ae255f3f.js",
+      "static/media/Newsfeed.png": "/portfolio/static/media/Newsfeed.1cd5cc44e21d726235d5.png",
+      "static/media/Tindog.png": "/portfolio/static/media/Tindog.919a71e90dfebf669336.png",
+      "static/media/ashish.png": "/portfolio/static/media/ashish.ee47ef64908aaf9bba4a.png",
+      "static/media/Dicegame.png": "/portfolio/static/media/Dicegame.ffba5c866743db013384.png",
+      "static/media/Textutils.png": "/portfolio/static/media/Textutils.5d774fc7e300b8872f10.png",
+      "static/media/CV_Ashish.pdf": "/portfolio/static/media/CV_Ashish.2302d272306928a798a3.pdf",
+      "static/media/glassesimoji.png": "/portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+      "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+      "static/media/humble.png": "/portfolio/static/media/humble.c8b32b53675e68978981.png",
+      "static/media/heartemoji.png": "/portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+      "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
+      "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+      "static/media/Vector2.png": "/portfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+      "static/media/glasses.png": "/portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+      "index.html": "/portfolio/index.html",
+      "main.9af537df.css.map": "/portfolio/static/css/main.9af537df.css.map",
+      "main.ae255f3f.js.map": "/portfolio/static/js/main.ae255f3f.js.map"
+    },
+    "entrypoints": [
+      "static/css/main.9af537df.css",
+      "static/js/main.ae255f3f.js"
+    ]
+}
