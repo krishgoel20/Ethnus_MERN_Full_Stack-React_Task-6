@@ -1,0 +1,17 @@
+.Education 
+{
+    text-align: center;
+    padding: 20px;
+}
+  
+.Education h2 
+{
+    font-size: 2rem;
+    color: #333;
+}
+  
+.Education p 
+{
+    font-size: 1.2rem;
+    color: #666;
+}

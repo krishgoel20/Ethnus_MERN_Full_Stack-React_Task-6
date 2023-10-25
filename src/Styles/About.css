@@ -1,0 +1,17 @@
+.About 
+{
+    text-align: center;
+    padding: 20px;
+}
+
+.About h2 
+{
+    font-size: 2rem;
+    color: #333;
+}
+
+.About p 
+{
+    font-size: 1.2rem;
+    color: #666;
+}

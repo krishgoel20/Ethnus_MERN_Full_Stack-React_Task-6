@@ -1,0 +1,23 @@
+.Languages 
+{
+    text-align: center;
+    padding: 20px;
+}
+  
+.Languages h2 
+{
+    font-size: 2rem;
+    color: #333;
+}
+  
+.Languages ul 
+{
+    list-style: none;
+    padding: 0;
+}
+  
+.Languages li 
+{
+    font-size: 1.2rem;
+    color: #666;
+}

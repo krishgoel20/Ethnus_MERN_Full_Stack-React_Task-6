@@ -1,0 +1,35 @@
+.Contact 
+{
+    text-align: center;
+    padding: 20px;
+}
+ 
+.Contact h2 
+{
+    font-size: 2rem;
+    color: #333;
+}
+  
+.Contact p 
+{
+    font-size: 1.2rem;
+    color: #666;
+}
+  
+.Contact ul 
+{
+    list-style: none;
+    padding: 0;
+}
+  
+.Contact li 
+{
+    font-size: 1.2rem;
+    color: #666;
+}
+  
+.Contact a 
+{
+    text-decoration: none;
+    color: #0077B5;
+}
